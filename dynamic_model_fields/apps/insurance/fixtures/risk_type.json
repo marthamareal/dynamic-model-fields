@@ -1,0 +1,197 @@
+[
+  {
+    "model": "insurance.risktype",
+    "pk": "10d98576-091f-4fb2-ad14-c40822748b51",
+    "fields": {
+      "created_at": "2019-04-17T20:23:05.558Z",
+      "updated_at": "2019-04-17T20:23:05.558Z",
+      "name": "Professional liability insurance",
+      "description": "Professional liability insurance, also known as errors and omissions (E&O) insurance, covers a business against negligence claims due to harm that results from mistakes or failure to perform.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb35",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "483a996e-e603-4437-b689-99193383a7e8",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "12bcf3dd-a23c-444e-81f1-2672d33b82e5",
+    "fields": {
+      "created_at": "2019-04-16T21:41:18.791Z",
+      "updated_at": "2019-04-16T21:41:18.791Z",
+      "name": "Property insurance",
+      "description": "Whether a business owns or leases its space, property insurance is a must. This insurance covers equipment, signage, inventory and furniture in the event of a fire, storm or theft.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb35",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb39"
+      ]
+    }
+  },
+
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205971",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "Workers’ compensation insurance",
+      "description": "Once the first employee has been hired, workers’ compensation insurance should be added to a business’s insurance policy. This will cover medical treatment, disability and death benefits in the event an employee is injured or dies.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb34",
+        "483a996e-e603-4437-b689-99193383a7e8",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb36",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205978",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "Home-based businesses",
+      "description": "Many professionals begin their small businesses in their own homes. Unfortunately, homeowner’s policies don’t cover home-based businesses in the way commercial property insurance does.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb35",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205976",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "Product liability insurance",
+      "description": "If your business manufactures products for sale on the general market, product liability insurance is a must. Even a business that takes every measure possible to make sure its products are safe can find itself named in a lawsuit due to damages caused by one of its products.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "483a996e-e603-4437-b689-99193383a7e8",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205976",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "Vehicle insurance",
+      "description": "If company vehicles will be used, those vehicles should be fully insured to protect businesses against liability if an accident should occur. At the very least, businesses should insure against third-party injury, but comprehensive insurance will cover that vehicle in an accident, as well.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb35",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb38"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205977",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "Group Life Insurance",
+      "description": "Group life insurance is mostly provided by an employer. It’s a term life insurance policy usually but sometimes it can be a whole policy too, depending on your company’s choice. Most people who get life insurance through work think that they have enough coverage to protect their family but most of the times, it’s actually not enough.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb35",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205985",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "No Exam Life Insurance",
+      "description": "A no exam life insurance policy is offered without going through the hassle of a paramedical exam. If you have certain health issues like high blood pressure, high cholesterol then going for a no exam policy seems a wise decision.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb34",
+        "483a996e-e603-4437-b689-99193383a7e8",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb36",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb31",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205986",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "Final Expense Insurance",
+      "description": "A life insurance policy that is specifically designed to cover funeral costs, burial costs and late in life medical expenses. It resembles simplified life insurance in a way that it does not involve any medical exam although there is a health questionnaire that you have to fill. If you don’t pass that questionnaire you will be issued a guaranteed acceptance life insurance policy instead. Also, final expense life insurance policy is only issued to people with a certain age.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb34",
+        "483a996e-e603-4437-b689-99193383a7e8",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb36",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb31",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205988",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "Indexed Universal Life Insurance",
+      "description": "It’s an insurance policy that is tied to a stock market index such as the S&P 500. The premiums are placed in a general account. Now the policyholder has an opportunity to allocate his funds either to a fixed account or to one of the indexed accounts.Each account has a guaranteed floor that protects you against market losses. This protection is available since you are not investing directly in the market.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb34",
+        "483a996e-e603-4437-b689-99193383a7e8",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb36",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb31",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  },
+  {
+    "model": "insurance.risktype",
+    "pk": "33d719cd-cde0-4164-9c60-bcf836205989",
+    "fields": {
+      "created_at": "2019-04-16T21:43:12.226Z",
+      "updated_at": "2019-04-16T21:43:12.226Z",
+      "name": "Universal Life Insurance",
+      "description": "Universal life insurance helps build cash value and is designed to last your entire life. But how does it differ from whole life policy? Well, here’s a twist: It offers flexibility to policyholders in terms of premium payments. That said, if at some point in your life you may feel a need to lower your premiums, you can do so by adjusting your premiums based on your cash value but keep in mind that these adjustments can only be done after the first year of the policy and only if you have enough cash value that can keep your policy in force for another two months.",
+      "fields": [
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb35",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb34",
+        "483a996e-e603-4437-b689-99193383a7e8",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb36",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb31",
+        "4b9fbf08-dd06-4320-b409-dc469c6fcb33"
+      ]
+    }
+  }
+]

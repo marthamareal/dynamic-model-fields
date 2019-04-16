@@ -1,0 +1,104 @@
+[
+    {
+        "model": "insurance.field",
+        "pk": "483a996e-e603-4437-b689-99193383a7e8",
+        "fields": {
+            "created_at": "2019-04-17T20:23:05.588Z",
+            "updated_at": "2019-04-17T20:23:05.588Z",
+            "name": "name",
+            "field_type": "37636f25-e6a5-4183-b932-c11decec5e61"
+        }
+    },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb31",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "Age",
+            "field_type": "9b6204e2-5b93-425d-a847-26346030771d"
+            }
+        },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb32",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "date",
+            "field_type": "633c77ab-e78d-4b27-b269-fbb6c598455b"
+            }
+        },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb33",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "email",
+            "field_type": "9b6204e2-5b93-425d-a847-26346030771e"
+            }
+        },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb34",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "gender",
+            "field_type": "9b6204e2-5b93-425d-a847-26346030771f",
+            "options": ["Male", "Female"]
+            }
+        },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb35",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "City",
+            "field_type": "37636f25-e6a5-4183-b932-c11decec5e61"
+            }
+        },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb36",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "Date of Birth",
+            "field_type": "633c77ab-e78d-4b27-b269-fbb6c598455b"
+            }
+        },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb37",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "Address",
+            "field_type": "37636f25-e6a5-4183-b932-c11decec5e61"
+            }
+        },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb38",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "Vehicle Type",
+            "field_type": "37636f25-e6a5-4183-b932-c11decec5e61"
+            }
+        },
+    {
+        "model": "insurance.field",
+        "pk": "4b9fbf08-dd06-4320-b409-dc469c6fcb39",
+        "fields": {
+            "created_at": "2019-04-17T20:24:18.918Z",
+            "updated_at": "2019-04-17T20:24:18.918Z",
+            "name": "property size",
+            "field_type": "37636f25-e6a5-4183-b932-c11decec5e61"
+            }
+        }
+                    
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "model": "insurance.fieldtype",
+        "pk": "37636f25-e6a5-4183-b932-c11decec5e61",
+        "fields": {
+            "created_at": "2019-04-17T20:22:06.302Z",
+            "updated_at": "2019-04-17T20:22:06.302Z",
+            "name": "text"
+            }
+        },
+    {
+        "model": "insurance.fieldtype",
+        "pk": "633c77ab-e78d-4b27-b269-fbb6c598455b",
+        "fields": {
+            "created_at": "2019-04-17T20:21:54.484Z",
+            "updated_at": "2019-04-17T20:21:54.484Z",
+            "name": "date"
+            }
+        },
+    {
+        "model": "insurance.fieldtype",
+        "pk": "9b6204e2-5b93-425d-a847-26346030771d",
+        "fields": {
+            "created_at": "2019-04-17T20:22:01.721Z",
+            "updated_at": "2019-04-17T20:22:01.721Z",
+            "name": "number"
+        }
+    },
+    {
+        "model": "insurance.fieldtype",
+        "pk": "9b6204e2-5b93-425d-a847-26346030771e",
+        "fields": {
+            "created_at": "2019-04-17T20:22:01.721Z",
+            "updated_at": "2019-04-17T20:22:01.721Z",
+            "name": "email"
+        }
+    },
+    {
+        "model": "insurance.fieldtype",
+        "pk": "9b6204e2-5b93-425d-a847-26346030771f",
+        "fields": {
+            "created_at": "2019-04-17T20:22:01.721Z",
+            "updated_at": "2019-04-17T20:22:01.721Z",
+            "name": "select-one"
+        }
+    },
+    {
+        "model": "insurance.fieldtype",
+        "pk": "9b6204e2-5b93-425d-a847-263460307712",
+        "fields": {
+            "created_at": "2019-04-17T20:22:01.721Z",
+            "updated_at": "2019-04-17T20:22:01.721Z",
+            "name": "select-many"
+        }
+    }
+        
+]
