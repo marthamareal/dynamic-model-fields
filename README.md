@@ -7,6 +7,7 @@ This project enables insurers to create risk types with custom fields of differe
 
 #### Solution approach
 In order to enable insurers add their custom fields with relevant field type when creating a risk type, This project creates three models `FieldType`, `Field` and `RiskType`. The `Field` model relates to the `FieldType` and `RiskType` with a `Many-To-Many` relationship. The available views enable a user to create risk types with a list of fields and the fields must refer to a field-type. A field type has a name and options if it's of select type.
+You can find a class diagram [here](https://drive.google.com/file/d/1gxs3y-f6bBmTCpVyzo1UhWa6iwo3b7MX/view?usp=sharing).
 
 Example of post data when creating a risk type:
 
@@ -28,6 +29,7 @@ POST `api/v1/risk-type/`:
 ```
 
 #### Setup
+Before we start make sure you have the [PostgreSQL](https://www.postgresql.org/) installed on your machine.
 
 Clone the repository with:
 
@@ -40,6 +42,10 @@ Create and activate a virtual enviroment with:
 ```
 $ virtualenv -p python3 venv
 $ source venv/bin/activate
+```
+setup database
+```
+- create database called `britecore`
 ```
 Rename the `.env.sample` file to `.env` and modify the variables with your credentials.
 Source the variables with
